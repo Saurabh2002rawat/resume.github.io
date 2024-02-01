@@ -1,0 +1,14 @@
+.bg{
+    background-color:rgb(99, 146, 235);
+}
+.image{
+    display:inline;
+    float : right;
+    height : 200px;
+}
+
+.one{
+    border:2;
+    margin: 0 auto; 
+
+}
